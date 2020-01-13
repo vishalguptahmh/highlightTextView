@@ -1,0 +1,2 @@
+include ':app', ':highlighttextview'
+rootProject.name='HightLightTextVIewProject'
